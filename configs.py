@@ -32,7 +32,7 @@ This is a Permanent FileStore Bot of Filmyfunda Movies
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [Ded eye](https://t.me/ded_eye) 
+├🔸 **Developer:** [Ded eye](https://t.me/OneLuffyD) 
 │
 ├🔸 **movies Updates:** [Movies Channel](https://t.me/Cinema_files_links)
 │
