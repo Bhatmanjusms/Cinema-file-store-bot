@@ -5,7 +5,7 @@ import os
 class Config(object):
 	API_ID = int(os.environ.get("API_ID", "28640367"))
 	API_HASH = os.environ.get("API_HASH", "1155ea430bfb927287488f6ffb1ad892")
-	BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+	BOT_TOKEN = os.environ.get("BOT_TOKEN", "6611968744:AAHAkFHafwzUkG3zYhxzKEl0-fyczU5aP5g")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME", "Filestoreses_bot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002055706453"))
 	SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "indianshortner.com")
